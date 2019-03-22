@@ -1,0 +1,16 @@
+
+# /
+/Logs
+/Output
+bin/
+obj/
+packages/
+aspnet_client/
+
+*.user
+*.jmconfig
+*.suo
+.idea/
+*.vsmdi
+*.eslintrc
+.vs/
