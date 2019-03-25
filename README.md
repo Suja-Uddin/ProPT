@@ -13,3 +13,13 @@ Development Prerequisites:
 Troubleshooting:
 
 * If you have "The site can't be reached problem", please follow the instructions mentioned [here](https://stackoverflow.com/a/52281551)
+
+
+Project Structure:
+The whole project consists of several sub projects.
+
+* ProPT.Api:
+
+  This is the main entry project. Inside this project, there are several files: 
+  * Program.cs: Main cs file which have the main method to run.
+  * Startup.cs: All startup configuration(database, logging etc) are written in here
