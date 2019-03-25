@@ -1,7 +1,7 @@
 # ProPT
 
 
-Development Prerequisite:
+Development Prerequisites:
 * Visual Studio 2017 Professional - Install from MSDN
 * Sql Server Management Studio 2017- Install from MSDN
 * [Microsoft .NET Framework 4.7.1 Developer Pack](https://www.microsoft.com/en-us/download/details.aspx?id=56119)
