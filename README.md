@@ -21,5 +21,9 @@ The whole project consists of several sub projects.
 * ProPT.Api:
 
   This is the main entry project. Inside this project, there are several files: 
-  * Program.cs: Main cs file which have the main method to run.
-  * Startup.cs: All startup configuration(database, logging etc) are written in here
+  * Program.cs: Main cs file which has the main method to run.
+  * Startup.cs: All startup configurations(database, logging etc) are written in here.
+  * Controllers: All controller file with apis are written in here. These controllers interacts with repositories to get data from DB.
+* ProPT.DataAccess.ef
+* ProPT.Domain
+* ProPT.Repository
