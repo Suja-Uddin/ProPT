@@ -14,3 +14,4 @@ aspnet_client/
 *.vsmdi
 *.eslintrc
 .vs/
+**/Properties/launchSettings.json
